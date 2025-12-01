@@ -20,10 +20,15 @@ Currently exploring data science, software engineering, and the social/ethical d
 
 ---
 
-## 📊 GitHub Stats  
+### 📊 GitHub Stats
 
-![Eilya's GitHub stats](https://github-readme-stats.vercel.app/api?username=eilyant&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eilyant&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EilyaNasertorabi&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EilyaNasertorabi&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=EilyaNasertorabi&theme=tokyonight)
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=EilyaNasertorabi&theme=gruvbox)
 
 ---
 
